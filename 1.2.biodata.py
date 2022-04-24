@@ -1,0 +1,7 @@
+# name = input("Hello sir! What is your name?")
+# print("My name is", name)
+# age = input("How old are you:")
+# print("I am", age, "years old")
+# occupation = input("What's your occupation: ")
+# print("I am a", occupation)
+# print(type(age))
